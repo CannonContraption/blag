@@ -23,7 +23,7 @@ At the time I was attending university, and had written a new blogging framework
 
 Basically, I took [WindowTools](https://gitlab.com/CannonContraption/windowtools) and [WidgetTools](https://gitlab.com/CannonContraption/widgettools) and made a new site with them. However, I did a pretty lazy job in this first iteration, and rather than store articles as separate pages that are loaded upon request, the whole blog was pretty much contained to a single JS file which set up the page and also stored the posts as JavaScript strings. I knew this was insanely dumb at the time even, but I didn't really care. It got me up and running.
 
-Around the time I wrote the [Blogging is Hard](https://CannonContraption.github.io/blogging-is-hard.html) article, I had finally gotten fed up with this. I also wanted a static site. Read the post if you want more information about that generation of this site.
+Around the time I wrote the [Blogging is Hard](blogging-is-hard.html) article, I had finally gotten fed up with this. I also wanted a static site. Read the post if you want more information about that generation of this site.
 
 I had used mainly groff at the time to compose articles. This was pretty convenient compared to the JavaScript strings, but still required some hand-editing afterwards. I had a custom font I wanted to use, and the new classic site and the desktop site both required hand-coded links to hook up the articles.
 
