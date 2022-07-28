@@ -6,6 +6,8 @@ SITEURL = 'https://cannoncontraption.github.io'
 
 PATH = 'content'
 
+THEME = 'themes/bashworks'
+
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
@@ -20,11 +22,17 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('You can modify those links in your config file', '#'),)
+         ('WindowTools', 'https://gitlab.com/CannonContraption/windowTools'),
+         ('Desktop Site', 'desktop/'),
+         ('Feeder for Android', 'https://gitlab.com/spacecowboy/Feeder'),
+         ('Fluent Reader', 'https://hyliu.me/fluent-reader/'),
+         ('Feedly for iOS', 'https://apps.apple.com/app/feedly-get-smarter/id396069556'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('GitLab', 'https://gitlab.com/CannonContraption'),
+         ('GitHub', 'https://github.com/CannonContraption'),
+         ('YouTube', 'https://www.youtube.com/channel/UC5Yt2D-FPphO4fjQix-S05Q'),
+         ('SoundCloud', 'https://soundcloud.com/jimmydean886'),)
 
 DEFAULT_PAGINATION = False
 
