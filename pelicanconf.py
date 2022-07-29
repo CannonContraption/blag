@@ -2,6 +2,7 @@
 
 AUTHOR = 'Jim Read'
 SITENAME = "#!/bin/bash it 'till it works"
+SITESUBTITLE = "The blog of a Zsh user."
 SITEURL = 'https://cannoncontraption.github.io'
 
 PATH = 'content'
