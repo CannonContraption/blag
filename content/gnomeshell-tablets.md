@@ -1,5 +1,5 @@
 Title: GNOME Shell is a Great Tablet UI
-Date: 2022-07-31
+Date: 2022-07-31 14:30
 Category: Tech
 Tags: tablet,tech,ios,android
 Slug: gnomeshell-tablets
