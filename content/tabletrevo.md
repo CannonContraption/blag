@@ -2,6 +2,7 @@ Title: What happened to the tablet revolution?
 Date: 2022-07-29
 Category: Tech
 Tags: tech,tablet,android,ios,windows8
+Slug: tabletrevo
 
 Not that many years ago, there was a significant amount of worry from people in the PC world. There was a new, disruptive marketplace segment that threatened to wipe out the PC world entirely. The tablet takeover is all but irrelevant now, and PCs remain (in one form or another) completely dominant for serious work in many (perhaps even most) professions.
 
