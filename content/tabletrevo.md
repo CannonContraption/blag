@@ -1,4 +1,4 @@
-Title: What happened to the tablet revolution?
+Title: What Happened to the Tablet Revolution?
 Date: 2022-07-29
 Category: Tech
 Tags: tech,tablet,android,ios,windows8
