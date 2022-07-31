@@ -1,5 +1,5 @@
 Title: GNOME Shell is a Great Tablet UI
-Date: 2022-07-29
+Date: 2022-07-31
 Category: Tech
 Tags: tablet,tech,ios,android
 Slug: gnomeshell-tablets
@@ -16,9 +16,9 @@ So that brings me to the other thought that occurred to me when I came up with [
 
 # GNOME still targets keyboard and mouse
 
-This is probably the single most important point. GNOME still supports keyboard and mouse input, and still treats it like a first-class citizen. This is a super important point, because that's where Windows stumbled with Windows 8. I'll defend that UI, actually, I think Windows 8 made a much better tablet OS than Windows 10, it's not even close. However, it's hard to argue that in the process of making Windows tablet friendly they didn't neglect the desktop in the process. GNOME came from keyboard and mouse, and while they also made radical shifts, they never went so far as to make the desktop a second-class interface in favor of whatever new thing they were doing.
+This is probably the single most important point. GNOME still supports keyboard and mouse input, and still treats it like a first-class citizen. That's where Windows stumbled with Windows 8. I'll defend that UI, actually, I think Windows 8 made a much better tablet OS than Windows 10, it's not even close. However, it's hard to argue that in the process of making Windows tablet friendly they didn't neglect the desktop in the process. GNOME came from keyboard and mouse, and while they also made radical shifts, they never went so far as to make the desktop a second-class interface in favor of whatever new thing they were doing.
 
-I'd also like to point out here that GNOME makes an excellent desktop UI. Even without a touchpad or touchscreen, GNOME shines as a great desktop for productivity use. I almost gave up my tiling window manager for work at one point because GNOME was working so well. That's saying something, since I [maintain my own](https://gitlab.com/CannonContraption/headcannon-dwm).
+I'd also like to point out here that GNOME makes an excellent desktop UI; even without a touchpad or touchscreen, GNOME shines as a great desktop for productivity use. I almost gave up my tiling window manager for work at one point because GNOME was working so well. That's saying something, since I [maintain my own](https://gitlab.com/CannonContraption/headcannon-dwm).
 
 With this in mind, the GNOME team made some really smart (but not too drastic) decisions about UI scaling over time that made GNOME easier to use with a mouse, as well. A lot of people complained about the bigger buttons and UI elements, but once you get used to it, they're not so big as to make the UI comical and it's much faster (even with a mouse) to hit the button you want.
 
@@ -36,18 +36,18 @@ As a brief aside, if you're trying to use a touchscreen or trackpad with GNOME o
 
 GNOME has touch gestures! Seriously, on your laptop try swiping up or down with 3 fingers, your overview should appear. Left and right switch workspaces.
 
-I really don't think I have to say much more, these gestures are very reliable, and you'll end up using them a lot if you learn them.
+I really don't think I have to say much more, these gestures are very reliable, and you'll end up using them a lot if you learn them. They also work on the touchpad just as well as on a touchscreen.
 
 # Multitasking
 ## Multiple Windows
 
-I touched on this earlier, but I feel like this is important. GNOME makes an effort to make window titlebars grabbable. You can touch and drag any window anywhere on the screen, and with snapping gestures, split screen and maximized windows are easy to accomplish with a finger.
+I touched on this earlier, but I feel like this is important. GNOME makes an effort to make window titlebars grabbable. You can touch and drag any window anywhere on the screen, and with snapping gestures, split screen and maximized windows are easy to accomplish with a finger. I remember header bars being somewhat controversial, but honestly I think this is a smart way to use all of the space in a window without making the titlebar too small to grab with a finger.
 
 ## Workspaces
 
 This is the real winner for the GNOME workflow, in my opinion.
 
-When you ask someone how they organize their work vs how they organize their desktop, there's probably a disconnect somewhere in there. Either the person will get confused, and say that they have folders for all of their projects, or they'll lay out a detailed system of how to identify which windows they want to restore from minimize in their taskbar to bring up the exact project they were working on.
+When you ask someone how they organize their work vs how they organize their desktop, there's probably a disconnect somewhere in there. Either the person will get confused, and say that they have folders for all of their projects, or they'll lay out a detailed system of how to identify which windows they want to restore from minimize in their taskbar to bring up the exact project they were working on. Alternatively, they'll admit it's a mess and probably say they should close stuff more often.
 
 This is why I count the fact that GNOME has no minimize button by default as a hilariously, obviously positive trait. You'll never find me faulting you for turning it back on if that's your preference, and it's good they kept that option, but in all honesty workspaces should be the real way people organize their work. Rather than hiding the stuff you're not working on, why not just categorize it?
 
@@ -69,11 +69,11 @@ This is one of those things that is "fine". It works as it should for basic thin
 
 ### Switching Pages
 
-This just plain sucks. You need to complete a full swipe across the entire screen for the page to turn. I mess this up much more than I get it right, so I'm hard pressed to believe that this couldn't use some tweaking.
+This just plain sucks. You need to complete a full swipe across the entire screen for the page to turn. I mess this up much more than I get it right, so I'm hard pressed to believe that this couldn't use some tweaking. You can tap the dots at the bottom of the page, but they're tiny and as far as I can tell they're built for a mouse. If you use a touchpad this swipe is fairly reliable, so this really seems to just be an issue with the touchscreen implementation.
 
 ### Folders
 
-Folders work just fine, but they're only really usable through touch gestures. There used to be a way to add things via the Software app (horrible name for that, btw), but that's gone now, as far as I can tell. If you want to use a folder, you have to drag and drop every item by hand into the folder without missing it by one tile.
+Folders work just fine, but they're only really usable through touch gestures. There used to be a way to add things via the Software app (horrible name for that, while I'm on the topic), but that's gone now, as far as I can tell. If you want to use a folder, you have to drag and drop every item by hand into the folder without missing it by one tile.
 
 Furthermore, if you have a lot of apps you haven't categorized yet (for example you downloaded the "security lab" group in Fedora), you'll probably be dragging and dropping each app across multiple pages of the app grid. See the section on switching pages for why this is annoying.
 
