@@ -1,5 +1,5 @@
 Title: Running an Unfederated XMPP Server For Fun (but Not Profit)
-Date: 2022-08-02 19:30
+Date: 2022-08-02 19:15
 Category: Tech
 Tags: xmpp,chat,server,communication
 Slug: xmpp
