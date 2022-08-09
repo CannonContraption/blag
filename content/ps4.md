@@ -1,5 +1,5 @@
 Title: Console Review: the PlayStation 4
-Date: 2022-08-08 23:55
+Date: 2022-08-08 23:59
 Category: Games
 Tags: PlayStation,tech,games,ps4
 Slug: ps4review
@@ -14,7 +14,7 @@ However, the PS4 is also powered by an 8-core version of the AMD Jaguar mobile C
 
 The system comes equipped with 2 front-facing USB ports (yuck), and physical power and eject buttons. It has the usual set of ports on the back for a cheap modern console, power, 8P8C Ethernet, HDMI, and a mystery "AUX" port used by the camera and basically nothing else. It has a Blu-Ray drive above the power and eject buttons.
 
-From a design aesthetic perspective, the system is solidly serviceable. It's an unassuming black slanted package, which I hear is designed to help hide the cables when it's lying flat. There's a slice in the middle, through which all of the system's airflow happens. The USB ports and the majority of the I/O are in this slice, and the power/eject buttons are on the top face of the bottom slanted segment. Again, it's serviceable. Nobody is going to look at your home theater cabinet and point to it as particularly ugly, or beautiful.
+From a design aesthetic perspective, the system is solidly serviceable. It's an unassuming black slanted package, which I hear is designed to help hide the cables when it's lying flat. There's a slice in the middle, through which all of the system's airflow happens. The USB ports and the majority of the I/O are in this slice, and the power/eject buttons are on the top face of the bottom slanted segment. Again, it's serviceable. Nobody is going to look at your home theater cabinet and point to it as particularly ugly, or beautiful. It does come in different colors, if you want to get fancy.
 
 # Controllers
 
