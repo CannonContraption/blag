@@ -1,5 +1,5 @@
 Title: Transition to Pelican, Part 2
-Date: 2022-08-09 20:00
+Date: 2022-08-09 19:07
 Category: Tech
 Tags: pelican,python,blog
 Slug: pelican2
