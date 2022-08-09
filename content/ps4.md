@@ -10,7 +10,7 @@ I bought a used Playstation 4 Slim in late 2017 from GameStop with a PSVR. I've 
 
 The PS4 is powered internally by an AMD Radeon GPU based on an early version of their GCN architecture. GCN was able to hang onto life even in the desktop space from 2012 or 2013 all the way up until 2019 without really falling too far behind in the product categories it competed in, so this component is pretty strong.
 
-However, the PS4 is also powered by a double-core version of the AMD Jaguar mobile CPU. So, the PS4 has 8 "cores" of computing power at its disposal, all within a strict power budget. In reality, that's 4 cores with 8 integer units between them, like most of AMD's CPUs of the time. This is weak, and I'll touch on where this becomes a problem later, but this is just some foreshadowing. It sucks. It works, but it sucks.
+However, the PS4 is also powered by an 8-core version of the AMD Jaguar mobile CPU. So, the PS4 has 8 "cores" of computing power at its disposal, all within a strict power budget. In reality, that's 4 cores with 8 integer units between them, like most of AMD's CPUs of the time. This is weak, and I'll touch on where this becomes a problem later, but this is just some foreshadowing. It sucks. It works, but it sucks.
 
 The system comes equipped with 2 front-facing USB ports (yuck), and physical power and eject buttons. It has the usual set of ports on the back for a cheap modern console, power, 8P8C Ethernet, HDMI, and a mystery "AUX" port used by the camera and basically nothing else. It has a Blu-Ray drive above the power and eject buttons.
 
@@ -43,6 +43,16 @@ I just typed a lot about that menu. What I want you to come away with though is 
 Sony's library with the PS4 is world-class. They have among the best console exclusives ever launched, such as Ghost of Tsushima, God of War (PS4), Ratchet and Clank (PS4), Uncharted 4, DriveClub, Horizon Zero Dawn (now on PC, but the port happened around when the PS5 launched), Persona 5 Royal, and many, many more. Those are just what came to mind. Because it's a comparatively powerful system next to its contemporaries, most multi-platform games play their best on PS4 out of all the consoles.
 
 Games also don't need to fully install to disk to play. Most of them will launch within a few seconds of putting them in the disk drive. Those of you with Xbox Ones will probably find this very refreshing, the difference is dramatic.
+
+## Web Browser
+
+Be careful to turn off JavaScript. The browser isn't very well optimized, and JavaScript makes most pages absolutely useless.
+
+The browser also doesn't support a lot of tabs open at once. You'll need to be careful not to leave anything important open, since if you open too many other things (first of all the performance will suck, but at any rate) the tab may disappear.
+
+This goes for any console, but just avoid the browser.
+
+I should also note on the topic of CPU that the CPU also limits some games somewhat, so even if a low-end old computer with a similar GPU can run a game, don't expect you'll get exactly the same performance out of the PS4. It may be better if it's optimized for the specific GPU in the PS4, or it may be worse because that CPU is so weak. It's weak enough it was a talking point on launch back in 2013, and almost 10 years later things certainly haven't gotten better.
 
 # Conclusion
 
