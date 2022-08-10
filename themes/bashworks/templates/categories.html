@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} - Categories and Tags{% endblock %}
+
+{% block content %}
+
+<section id="content" class="body">
+  <h1>Browse All Categories and Tags</h1>
+  <h2>Categories</h2>
+  <ul>
+    {% for category, null in categories %}
+    <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+    {% endfor %}
+  </ul>
+  <h2>Tags</h2>
+  <ul>
+    {% for tag, articles in tags|sort %}
+    <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% endblock %}
