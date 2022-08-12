@@ -108,7 +108,7 @@ To quote the [Org Mode manual](https://orgmode.org/org.html#Tracking-your-habits
 
 If you don't follow why this is huge, or you're like me the first time I used Org and just dismissed this idea, the gist is that Org can gameify regularly getting things done.
 
-Assuming I understand ADHD correctly***, there's a difference in how the brain perceives how attention-worthy something is. Essentially a person favors certain things they're good at or interested in over things they might need to do at one point in time. Task management issues are especially common, as a result. Many (or maybe most) people with ADHD don't find it engaging, and therefore don't (or more accurately can't) focus on it. For me, gameifying random tasks puts that motivation to finish everything to completion (and on time) back into the equation.
+For me, gameifying random tasks puts that motivation to finish everything to completion (and on time) back into the equation. This lets me manage my not-quite-normal attention span and stay organized.
 
 # Conclusion
 
@@ -121,4 +121,3 @@ Do what works for you. I recommend reading David Allen's book "Getting Things Do
 
 \* This is how the Git integration works, if you opt to write/use it.  
 \** I think I had _heard_ of it, but I certainly wasn't using it yet. I had individually been using both TW and Git for quite some time, too.  
-\*** I'm not a student of psychology, but this is more or less how it feels to me.
