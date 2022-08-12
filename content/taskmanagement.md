@@ -104,20 +104,21 @@ If you tell Emacs where to find your Org-mode task lists, it can automatically c
 
 This is why I've stuck with Org Mode. Literally no other feature is this useful.
 
-To quote the Org Mode manual, "Org has the ability to track the consistency of a special category of TODO, called 'habits.'" This is special because it lets you treat the scheduled date (or date range) of a task like a streak. You can see visually how close you were to meeting your intended completion time, and how close you are to the next time you will have to deal with that task. The whole thing can be seen visually in the agenda view.
+To quote the [Org Mode manual](https://orgmode.org/org.html#Tracking-your-habits), "Org has the ability to track the consistency of a special category of TODO, called 'habits.'" This is special because it lets you treat the scheduled date (or date range) of a task like a streak. You can see visually how close you were to meeting your intended completion time, and how close you are to the next time you will have to deal with that task. The visual part is handled by the agenda view.
 
 If you don't follow why this is huge, or you're like me the first time I used Org and just dismissed this idea, the gist is that Org can gameify regularly getting things done.
 
-Assuming I understand ADHD correctly, there's a change in how the brain perceives how attention-worthy something is. Essentially a person favors certain things they're good at or interested in over things they might need to do at one point in time. For me, gameifying random tasks puts that motivation to finish everything back into the equation.
+Assuming I understand ADHD correctly***, there's a difference in how the brain perceives how attention-worthy something is. Essentially a person favors certain things they're good at or interested in over things they might need to do at one point in time. Task management issues are especially common, as a result. Many (or maybe most) people with ADHD don't find it engaging, and therefore don't (or more accurately can't) focus on it. For me, gameifying random tasks puts that motivation to finish everything to completion (and on time) back into the equation.
 
 # Conclusion
 
 There are other features I could talk about, but most of them boil down to the same few important ones here.
 
-Do what works for you. I recommend reading David Allen's book "Getting Things Done", either in its entirety or in part, and following some of his recommendations first. Tools are kind of secondary. That said, using Emacs has kept me on track, in spite of my ADHD, and maybe it'll help you, too.
+Do what works for you. I recommend reading David Allen's book "Getting Things Done", either in its entirety or in part, and following some of his recommendations first. Tools are kind of secondary. That said, using Emacs has kept me on track, in spite of my ADHD, and maybe it'll help you too, even if you don't have ADHD.
 
 
 -----
 
 \* This is how the Git integration works, if you opt to write/use it.  
 \** I think I had _heard_ of it, but I certainly wasn't using it yet. I had individually been using both TW and Git for quite some time, too.  
+\*** I'm not a student of psychology, but this is more or less how it feels to me.
