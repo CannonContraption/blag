@@ -16,7 +16,7 @@ Beyond this, though, there's a certain amount of patience and diligence that fis
 
 # As recreation
 
-This is where the waters get muddier, pun very much intended. There's a certain amount of connection that you can form with a person by fishing with them. Being patient with line and hook is a sign of a patient, collected person. When you hook a bush or snap your line, you open yourself up to the other person and show them who you are, too. Because it's a calm, relaxed setting, people will tend to let their guard down as they fish, and simply soak in the meditative atmosphere.
+There's a certain amount of connection that you can form with a person by fishing with them. Being patient with line and hook is a sign of a patient, collected person. When you hook a bush or snap your line, you open yourself up to the other person and show them who you are, too. Because it's a calm, relaxed setting, people will tend to let their guard down as they fish, and simply soak in the meditative atmosphere.
 
 Even more so, fishing is a low-stress activity, something that anybody of any age can enjoy. A six-year-old and a 96 year old can both sit at the same shore and connect as friends or family just by sitting and letting the time pass.*
 
