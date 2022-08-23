@@ -1,0 +1,6 @@
+[submodule "themes/bashworks/static/scripts/windowTools"]
+	path = themes/bashworks/static/scripts/windowTools
+	url = https://gitlab.com/CannonContraption/windowTools.git
+[submodule "themes/bashworks/static/scripts/widgetTools"]
+	path = themes/bashworks/static/scripts/widgetTools
+	url = https://gitlab.com/CannonContraption/widgetTools.git
