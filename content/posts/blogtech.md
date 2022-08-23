@@ -3,6 +3,8 @@ Date: 2019-07-31
 Category: Tech
 Tags: blogging,tech,desktop,blog
 
+Update (2022-08-23): This post was written _long_ before I started using Pelican, and the entire post was originally shown via the desktop site. If you see mentions of the technology showing this post/blog and you want the full experience of what that looked like (and you're on a desktop/laptop, not a phone), open the post in the "desktop site", linked above.
+
 <h2>1. No It&rsquo;s Not.
 <a name="1. No It&rsquo;s Not."></a>
 </h2>
@@ -439,3 +441,5 @@ that.</p>
 post again when I&rsquo;ve implemented the change to make
 smoother windows, and at that point I&rsquo;ll be removing
 posts.js for good- and good riddence!</p>
+
+Update (2022-08-23): I never did fix this bug, but I removed the references to post.js (but not the file, for some reason) long before I moved to Pelican. Of course, the old classic site is gone now, see [the other posts on this transition]({tag}blog).
