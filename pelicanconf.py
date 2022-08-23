@@ -27,11 +27,10 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('WindowTools', 'https://gitlab.com/CannonContraption/windowTools'),
-         ('Desktop Site', '/desktop/'),
+         ('WidgetTools', 'https://gitlab.com/CannonContraption/widgetTools'),
          ('Feeder for Android', 'https://gitlab.com/spacecowboy/Feeder'),
          ('Fluent Reader', 'https://hyliu.me/fluent-reader/'),
-         ('Feedly for iOS', 'https://apps.apple.com/app/feedly-get-smarter/id396069556'),
-         ('Archives', '/archives'),)
+         ('Feedly for iOS', 'https://apps.apple.com/app/feedly-get-smarter/id396069556'),)
 
 # Social widget
 SOCIAL = (('GitLab', 'https://gitlab.com/CannonContraption'),

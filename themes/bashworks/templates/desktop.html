@@ -12,6 +12,10 @@
         <link rel="stylesheet" type="text/css" href="/theme/css/desktop-theme.css" />
         <link rel="stylesheet" type="text/css" href="/theme/scripts/widgetTools/widgetTools.css" />
         <!-- Script sources -->
+        <script>
+         wtoolspath="/theme/scripts/"
+         wtoolsrpath="/theme/"
+        </script>
         <script src="/theme/scripts/windowTools/windowTools.js"></script>
         <script src="/theme/scripts/widgetTools/widgetTools.js"></script>
     </head>
@@ -28,27 +32,14 @@
          {
              var introwindow = addWindow(
                  "Intro",
-                 600);
+                 800);
              var widgetSpace = makeWidgetSpace();
              setWidgetSpace(
                  introwindow,
                  widgetSpace);
              makeLabel(
                  widgetSpace,
-                 "<h2>Welcome to #!/bin/bash it 'till it works</h2>"+
-                 "The blog of CannonContraption");
-             makeRule(
-                 widgetSpace);
-             makeLabel(
-                 widgetSpace,
-                 "Click on the menu at the bottom to start."+
-                 " There you'll find blog posts, general information, and "+
-                 "eventually other goodies too.");
-             makeRule(
-                 widgetSpace);
-             makeLabel(
-                 widgetSpace,
-                 "If you're on a phone, you may want to go back and choose the \"classic site\".<br>Unfortunately, touch-only interfaces are somewhat awkward with the desktop interface for the moment.");
+                 "{{ page.content|replace("\"", "\\\"")|replace("\n","") }}");
          }
 
          function make_about_window()
@@ -237,13 +228,13 @@
                                  latestButton,
                                  function(){
                                      frame_post(
-                                         "intro",
-                                         "intro.html",
-                                         "keyboard")});
+                                         "{{ articles[0].url }}",
+                                         "{{ articles[0].slug }}",
+                                         "{{ category }}")});
                              {% for article in articles %}
                              let {{ article.slug|replace('-','_') }}icon = makeIcon(
                                  browser_section,
-                                 "{{ article.slug|truncate(6) }}",
+                                 "{{ article.slug }}",
                                  "blogpost");
                              setDblClickAction(
                                  {{ article.slug|replace('-','_') }}icon,
