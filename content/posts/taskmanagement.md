@@ -78,7 +78,7 @@ If you miss this one, it won't pile up, but it'll still be scheduled in the next
 
 This schedules the next one to one month after it's marked DONE. If I wanted to clean the garage every month, it would not pester me to do it again if it hadn't been a month yet since last time, even if last time was late.
 
-For recursion, this is enough for me. However, if you had more corner cases, you could probably extend the recursion system using some elisp. See my [article on Lisp]({filename}/lisprglory.md) for why you shouldn't be afraid of this option. Bear in mind, however, this is one of my earlier articles before I was as practiced at expressing myself.
+For recursion, this is enough for me. However, if you had more corner cases, you could probably extend the recursion system using some elisp. See my [article on Lisp]({filename}lisprglory.md) for why you shouldn't be afraid of this option. Bear in mind, however, this is one of my earlier articles before I was as practiced at expressing myself.
 
 Also, Org Mode supports top-down task creation. This means you can start with the biggest tasks, and then drill down logically. Like this:
 

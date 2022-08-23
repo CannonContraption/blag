@@ -7,6 +7,8 @@ SITEURL = 'https://cannoncontraption.github.io'
 SITEICON = '/theme/images/icons/favicon.png'
 
 PATH = 'content'
+ARTICLE_PATHS = [ 'posts' ]
+PAGE_PATHS = [ 'pages' ]
 
 THEME = 'themes/bashworks'
 

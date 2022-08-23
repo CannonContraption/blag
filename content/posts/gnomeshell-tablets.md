@@ -8,11 +8,11 @@ GNOME Shell is a pretty great tablet UI. It's not the most polished one ever, bu
 
 I honestly wish I could get it on my (up-to-date) Surface RT.
 
-This all started from [a post I did a couple days ago]({filename}/tabletrevo.md) about why the tablet revolution never came like we expected. This whole topic came to mind recently as I started reading other people's blogs, notably [Mr. Money Mustache](mrmoneymustache.com), and I dug up my old Surface RT so I could read the blog like a book. I got the Surface off of a friend who used it briefly in high school and was about to throw it out. It did get me to muse a little about what the future looked like back in 2012 when 'Surface' was a sexy new brand that showed a lot of promise, and some people still believed laptops and desktops would be gone in a few more years.
+This all started from [a post I did a couple days ago]({filename}tabletrevo.md) about why the tablet revolution never came like we expected. This whole topic came to mind recently as I started reading other people's blogs, notably [Mr. Money Mustache](mrmoneymustache.com), and I dug up my old Surface RT so I could read the blog like a book. I got the Surface off of a friend who used it briefly in high school and was about to throw it out. It did get me to muse a little about what the future looked like back in 2012 when 'Surface' was a sexy new brand that showed a lot of promise, and some people still believed laptops and desktops would be gone in a few more years.
 
 The Surface wasn't the first tablet I reached for, though. I also have an XPS 15 2-in-1 (which in this case I bought myself) that I was briefly using GNOME on so I could use it like a tablet. In spite of its heft and size, this was a really nice way to read as far as I'm concerned, and I only really switched back to the Surface when the battery started running low.
 
-So that brings me to the other thought that occurred to me when I came up with [the last post]({filename}/tabletrevo.md), GNOME is a really pretty excellent tablet and touch interface. It's not perfect, but it's very comfortable and really would only need minor tweaks to do excatly what Windows 8 set out to do, but much better.
+So that brings me to the other thought that occurred to me when I came up with [the last post]({filename}tabletrevo.md), GNOME is a really pretty excellent tablet and touch interface. It's not perfect, but it's very comfortable and really would only need minor tweaks to do excatly what Windows 8 set out to do, but much better.
 
 # GNOME still targets keyboard and mouse
 
