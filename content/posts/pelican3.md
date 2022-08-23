@@ -1,5 +1,5 @@
 Title: Transition to Pelican: Part 3
-Date: 2022-08-23
+Date: 2022-08-23 18:00
 Category: Tech
 Tags: blog,python,pelican,desktop
 Slug: pelican3
