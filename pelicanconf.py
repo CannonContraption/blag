@@ -4,7 +4,7 @@ AUTHOR = 'Jim Read'
 SITENAME = "#!/bin/bash it 'till it works"
 SITESUBTITLE = "The blog of a Zsh user."
 SITEURL = 'https://cannoncontraption.github.io'
-SITEICON = 'theme/images/icons/favicon.png'
+SITEICON = '/theme/images/icons/favicon.png'
 
 PATH = 'content'
 
