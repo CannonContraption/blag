@@ -1,6 +1,6 @@
 Title: Fishing
 Date: 2022-08-20 15:57
-Categories: Misc
+Category: Misc
 Tags: Fising,outdoors,lifestyle
 Slug:fishing
 
