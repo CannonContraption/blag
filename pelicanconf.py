@@ -4,6 +4,7 @@ AUTHOR = 'Jim Read'
 SITENAME = "#!/bin/bash it 'till it works"
 SITESUBTITLE = "The blog of a Zsh user."
 SITEURL = 'https://cannoncontraption.github.io'
+SITEICON = 'theme/images/icons/favicon.png'
 
 PATH = 'content'
 
@@ -24,11 +25,11 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('WindowTools', 'https://gitlab.com/CannonContraption/windowTools'),
-         ('Desktop Site', 'desktop/'),
+         ('Desktop Site', '/desktop/'),
          ('Feeder for Android', 'https://gitlab.com/spacecowboy/Feeder'),
          ('Fluent Reader', 'https://hyliu.me/fluent-reader/'),
          ('Feedly for iOS', 'https://apps.apple.com/app/feedly-get-smarter/id396069556'),
-         ('Archives', 'archives'),)
+         ('Archives', '/archives'),)
 
 # Social widget
 SOCIAL = (('GitLab', 'https://gitlab.com/CannonContraption'),
@@ -40,8 +41,8 @@ DEFAULT_PAGINATION = False
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
-MENUITEMS = (('Archives', 'archives'),
-             ('Categories/Tags', 'categories'))
+MENUITEMS = (('Archives', '/archives'),
+             ('Categories/Tags', '/categories'))
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
