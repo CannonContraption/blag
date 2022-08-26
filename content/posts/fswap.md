@@ -1,5 +1,5 @@
 Title: Virtual Memory Inspired File Management
-Date: 2022-08-25 16:00
+Date: 2022-08-25 23:51
 Category: Tech
 Tags: fswap,files,server,rsync
 Slug: fswap
@@ -160,7 +160,7 @@ I didn't mention what's probably the most annoying bug with fswap at the moment.
 
 I'm not sure what I would need to do to make this work, but I had imagined from the start that all you would have to do to trigger fswapin is to try to cd to a directory that exists in fswap. The idea would be that the entire swap process would be completely transparent. I didn't implement this mostly because typing `fswapin project` never seemed like a big deal to me. It was something of a priority on my initial roadmap, but the tool proved to be so useful without it that I never bothered.
 
-There's also the issue of how I would go about this. I use [a fork of DWM]({filename}forkdwm.md) and sometimes [Sway](https://swaywm.org/), so I have a status bar that I could just slap an indicator on to tell me when it's done. However, [I've released fswap to my GitLab](https://gitlab.com/CannonContraption/fswap), which means other people can use it. I don't want to advertise a feature that may break things if someone else tries it without absolutely perfect installation. If you have to explicitly swap in every directory, then there's progress built in to the command to do that.
+There's also the issue of how I would go about this. I use [a fork of DWM]({filename}dwm.md) and sometimes [Sway](https://swaywm.org/), so I have a status bar that I could just slap an indicator on to tell me when it's done. However, [I've released fswap to my GitLab](https://gitlab.com/CannonContraption/fswap), which means other people can use it. I don't want to advertise a feature that may break things if someone else tries it without absolutely perfect installation. If you have to explicitly swap in every directory, then there's progress built in to the command to do that.
 
 On the flip side, using Fswap basically requires knowledge of the terminal to work properly. Not only that, but this requirement to use the terminal excludes phone and tablet users to some degree. I'll probably at least look up what I would have to do to handle this, even if I never implement it.
 
