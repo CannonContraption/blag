@@ -1,5 +1,5 @@
 Title: Blogging via Pelican and an Intro to Static Site Generation
-Date: 2022-08-31
+Date: 2022-08-31 20:10
 Category: Tech
 Tags: blog,tech,blogging
 Slug: staticsite
@@ -24,7 +24,7 @@ Had I known what Pelican themes were from the start, I would have started using 
 
 This is where all of your posts, pages, articles, etc. go. I'm right now writing to a file in `~/doc/blog/content/posts` in Markdown. The layout, styling, and boilerplate that needs to be present for the full page to appear as a #!/bin/bash it 'till it works post are all notably absent here, that's what the theme and Pelican are for. I can just focus on what I'm writing. As a matter of fact, I regularly write full articles without leaving Emacs at all until the post is completely written and essentially ready to publish.
 
-As the name "static site generator" suggests, Pelican is a site _generator_. It takes a list of the posts that I've written, certain facts about these posts, and the post content, and places it into the theme to create the final output. That output winds up as plain HTML, so while I get a nice, cushy place to just write, you see the same page style, the same header formatting, the same links, the same everything from page to page without me working for it. A lot of people will argue for systems like WordPress to do this kind of thing, but I would argue that systems like Pelican make more sense, since all of the CMS work is done _ahead of time_, instead of requiring a server to generate a page to serve plain text and a few images.
+As the name "static site generator" suggests, Pelican is a site _generator_. It takes a list of the posts that I've written, certain facts about these posts, and the post content, and places it into the theme to create the final output. That output winds up as plain HTML, so while I get a nice, cushy place to just write, you see the same page style, the same header formatting, the same links, the same everything from page to page without me working for it. A lot of people will argue for systems like WordPress to do this kind of thing, but I would argue that systems like Pelican make more sense, since all of the content management work is done _ahead of time_, instead of requiring a server to generate a page to serve plain text and a few images.
 
 ## Configuration
 
@@ -47,6 +47,9 @@ I recently heard that it's possible to take the Pelican directory structure and 
 ## The Desktop Site Has Been A Huge Help
 
 I can't overstate this. The design of the desktop site is perfect for looking at (and cross-referencing) a lot of my posts all at once. If I'm writing an article, I can open it in the desktop and just reload the iframe it sits in every time I change it, and I can also divide up that browser window with a bunch of other posts I'm referencing without spawning a ton of extra browser windows. Admittedly, I could just open a whole bunch of [surf](https://suckless.org/surf) windows, and sometimes I do, but the desktop site is kinda cool, so I alternate between the two. Plus, I don't have to configure a layout for all of the posts I'm opening, I can just open them and drag them around. Normally I find that to be a disadvantage and something that needs to be contained, but again making this a site achieves the containment part.
+
+I took this screenshot while still writing the [virtual memory inspired file management post]({filename}fswap.md):
+![Desktop site]({static}/images/staticsite/desktopsite.png){width=100%}
 
 ## Use `visual-line-mode`
 
