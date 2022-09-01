@@ -9,7 +9,7 @@ So a quick recipe for mac and cheese:
 # Ingredients
 
 * Stick of butter
-* >1lb shredded cheese (your choice, mix and match to taste)
+* \>1lb shredded cheese (your choice, mix and match to taste)
 * 12-16 oz pasta (Macaroni or shells are best)
 * Double the amount of water (by volume) as pasta
 * 1/4-1/2 cup milk
