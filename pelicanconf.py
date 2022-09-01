@@ -6,6 +6,9 @@ SITESUBTITLE = "The blog of a Zsh user."
 SITEURL = 'https://cannoncontraption.github.io'
 SITEICON = '/theme/images/icons/favicon.png'
 
+EMAIL = 'jimmydean886@hotmail.com'
+EMAILLINK = 'mailto:' + EMAIL
+
 PATH = 'content'
 ARTICLE_PATHS = [ 'posts' ]
 PAGE_PATHS = [ 'pages' ]
@@ -36,7 +39,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 SOCIAL = (('GitLab', 'https://gitlab.com/CannonContraption'),
          ('GitHub', 'https://github.com/CannonContraption'),
          ('YouTube', 'https://www.youtube.com/channel/UC5Yt2D-FPphO4fjQix-S05Q'),
-         ('SoundCloud', 'https://soundcloud.com/jimmydean886'),)
+          ('SoundCloud', 'https://soundcloud.com/jimmydean886'),
+          ('Email', EMAILLINK + "?subject=Hello!" ),)
 
 DEFAULT_PAGINATION = False
 
