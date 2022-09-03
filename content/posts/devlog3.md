@@ -109,7 +109,7 @@ This is the value from yesterday we make our adjustment from. For a prototype (o
 
     Today we have an error value of 4
     
-This is where that integer math rears its ugly head. This is supposed to be (deviation * 100) / average = error percentage, but with a deviation of 5 and an average of 60, we should get 8.(3 repeating) (Sorry, Chrome doesn't support MathML and I don't know another way to represent 3 repeating lol (We should _all_ use Firefox /s)).
+This is where that integer math rears its ugly head. This is supposed to be (deviation * 100) / average = error percentage, but with a deviation of 5 and an average of 60, we should get 8.(3 repeating) (Sorry, Chrome doesn't support MathML and I don't know another way to represent 3 repeating lol).
 
 So, we have an error of 8% stored away. It gets worse, though. If we apply an 8% error to 57, we get 4.56 as our deviation, which again gets lopped off by our friend the integer. Thus, we have an error value of "4". This is entirely my fault and a prototype bump.
 
