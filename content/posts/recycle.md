@@ -1,5 +1,6 @@
 Title: Reduce, Reuse, Repair, <i>then</i> Recycle
 Date: 2022-09-14 22:02
+Modified: 2022-09-14 22:19
 Category: Tech
 Tags: electronics,repair
 Slug: recycle
@@ -88,6 +89,15 @@ Check this first. There's a chance your phone may actually still be supported by
 This is a growing movement (fortunately). We live in a world where the major companies supplying our tools try to lock us into buying more of them more quickly, rather than making the best tools. I'm picking on Apple a lot here, but they _especially_ fall into this camp, and tend to lead industry trends in this way, unfortunately. However, over the past 5-10 years we've started to see a groundswell of support from independent repair techs and individual citizens in support of legal action to grant us the _right_ to repair our stuff, rather than the unspoken agreement that used to be enough. This is in the face of changes from companies like Apple that would seek to ensure that we can't possibly keep these things out of landfills. Organizations like [FUTO](https://futo.org/) I believe are a big part in this becoming a success.
 
 If you don't think you're smart enough to repair your own stuff, that's fine, right to repair also means right to _choose who does it for you_, which is something that (surprisingly) isn't protected as it is.
+
+# I've done it!
+
+I have repaired my own phone, here's a picture or two from back in 2016:
+
+![Battery and NFC antenna]({static}/images/recycle/insidephone-1.jpg){width=100%}
+![Back case, prepped and ready to install]({static}/images/recycle/insidephone-2.jpg){width=100%}
+
+At the time, I had a Moto X (2013).
 
 ---
 
